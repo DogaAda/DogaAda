@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DogaAda
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me sending an email to dogaadaaydin@gmail.com
 
 <!---
